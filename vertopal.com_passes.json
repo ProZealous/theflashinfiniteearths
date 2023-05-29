@@ -1,12 +1,4 @@
 {
-    "playerID": "001",
-    "gamepassID": "12345"
-},
-{
-    "playerID": "002",
-    "gamepassID": "67890"
-},
-{
-    "playerID": "003",
-    "gamepassID": "11121"
-}
+    "216337370": {
+        "gamepasses": [1234, 51244, 145123, 81238]
+   
